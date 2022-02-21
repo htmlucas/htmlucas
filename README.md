@@ -13,13 +13,12 @@
 - 👯 Busco por empresas onde possamos nos desenvolver e somar juntos! ...
 
 ##
-
 <div align="center">
   <a href="https://github.com/htmlucas">
-  <img width="37%" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmlucas&layout=compact&langs_count=7&theme=onedark"/>
+  <img width="47%" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmlucas&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-  
-##
+
+  ##
  
  
 
