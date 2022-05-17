@@ -8,9 +8,9 @@
   
 
 
-- 🔭 Eu atualmente trabalho com Back-end em Laravel ...
-- 🌱 Eu estou aperfeiçoando meu Front-end em VueJS ...
-- 🐱‍💻 Eu estou estudando PHP Unit ...
+- 🔭 Eu atualmente trabalho com Back-end em Laravel .
+- 🌱 Tenho conhecimento Front-end em VueJS .
+- 💻 Desenvolvedor Laravel Júnior na SMIT .
 
 ##
 <div align="center">
