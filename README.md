@@ -9,6 +9,7 @@
 
 
 - 🔭 Eu atualmente trabalho com Back-end em Laravel .
+- 🔭 Estudando Node.js e React .
 - 🌱 Tenho conhecimento Front-end em VueJS .
 - 💻 Desenvolvedor Laravel Júnior na SMIT .
 
