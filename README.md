@@ -12,6 +12,7 @@
 - 🔭 Estudando Node.js e React .
 - 🌱 Tenho conhecimento Front-end em VueJS .
 - 💻 Desenvolvedor Laravel Júnior na SMIT .
+- 🔰  Desenvolvimento API Lumen .
 
 ##
 <div align="center">
