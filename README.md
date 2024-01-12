@@ -8,11 +8,9 @@
   
 
 
-- 🔭 Eu atualmente trabalho com Full-stack em Laravel e Javascript .
-- 🔭 Estudando Node.js e React .
+- 🔭 Já trabalhei com Full-stack em Laravel e Javascript e API Lumen .
+- 🔭 Estudando para realocação profissional (TYPESCRIPT, NODE.JS E REACT) .
 - 🌱 Tenho conhecimento Front-end em VueJS .
-- 💻 Desenvolvedor Laravel Júnior na SMIT .
-- 🔰  Desenvolvimento API Lumen .
 
 ##
 <div align="center">
