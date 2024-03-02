@@ -8,9 +8,7 @@
   
 
 
-- 🔭 Já trabalhei Fullstack em Laravel com Javascript e API Lumen .
-- 🔭 Estudando para realocação profissional (TYPESCRIPT, NODE E REACT) .
-- 🌱 Tenho conhecimento Front-end em VueJS .
+- 🔭 Fullstack| Laravel | Typescript | Node | React | Vue js| Lumen
 
 ##
 <div align="center">
