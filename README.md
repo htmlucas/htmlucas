@@ -8,7 +8,7 @@
   
 
 
-- 🔭 Fullstack| Laravel | Typescript | Node | React | Vue js| Lumen
+- 🔭 Fullstack | Laravel | Typescript | Node | React | Vue js| Lumen
 
 ##
 <div align="center">
