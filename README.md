@@ -4,7 +4,8 @@
   <a href="https://www.linkedin.com/in/lucas-martins-4a4b55190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
- - Atualmente focado em Node.js e React
+- Formado em Análise e Desenvolvimento de Sistemas | IFSP - Instituto Federal de São Paulo
+- Atualmente focado em Node.js e React
 - Estudando nestJS para aprimorar mais ainda minhas habilidades
 - Já fui Desenvolvedor full stack em Laravel
 
