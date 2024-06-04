@@ -30,7 +30,7 @@
 
 <div align="center">
   <a href="https://github.com/htmlucas">
-  <img width="47%" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmlucas&layout=compact&langs_count=7&theme=onedark"/>
+  <img width="47%" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmlucas&hide_progress=true&theme=dark"/>
   </a>
 </div>
  
