@@ -5,9 +5,8 @@
 </div>
 
 - Formado em Análise e Desenvolvimento de Sistemas | IFSP - Instituto Federal de São Paulo
-- Atualmente focado em Node.js e React
-- Estudando nestJS para aprimorar mais ainda minhas habilidades
-- Já fui Desenvolvedor full stack em Laravel
+- Desenvolvedor Full Stack Pleno em Laravel | Next | React | Typescript
+- Estudando sobre arquitetura de dados!
 
 <div align="left" style="display: inline_block" >
   <br>
