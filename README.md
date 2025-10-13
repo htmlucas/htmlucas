@@ -6,7 +6,7 @@
 
 - Formado em Análise e Desenvolvimento de Sistemas | IFSP - Instituto Federal de São Paulo
 - Desenvolvedor Full Stack Pleno em Laravel | Next | React | Typescript
-- Estudando sobre arquitetura de dados!
+- Estudando sobre engenharia de dados!
 
 <div align="left" style="display: inline_block" >
   <br>
