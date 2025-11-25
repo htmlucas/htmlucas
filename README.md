@@ -62,12 +62,6 @@
     <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
     <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 </div>
-
-<div align="center">
-  <a href="https://github.com/htmlucas">
-  <img width="47%" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htmlucas&hide_progress=true&theme=dark"/>
-  </a>
-</div>
  
  
 
