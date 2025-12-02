@@ -4,11 +4,15 @@
   <a href="https://www.linkedin.com/in/lucas-martins-46043633a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  #### Sou desenvolvedor Full Stack com 3 anos de experiência em projetos web, especializado em PHP/Laravel, React, Next.js, TypeScript e Docker. Domínio em APIs RESTful, microsserviços, modelagem de dados, filas, jobs, testes unitários, containers e versionamento com Git. Experiência na criação de sistemas completos, arquitetura de software e integração de serviços em tempo real com Laravel Reverb.
+  #### Sou desenvolvedor Full Stack com 3 anos de experiência em projetos web, atualmente focado em Node.js e desenvolvimento backend moderno. Atuei com PHP/Laravel ao longo da maior parte da minha trajetória, construindo APIs escaláveis, microsserviços, filas, jobs, modelagem de dados e integrações complexas — experiência que fortalece minha atuação atual no ecossistema JavaScript/TypeScript.
 
-  #### No meu último projeto profissional, atuei na modelagem estrutural de entidades complexas, definindo relacionamentos, garantindo integridade e alinhamento com as regras de negócio. Também desenvolvi microserviços para otimizar fluxos, incluindo um pipeline inteligente de enriquecimento de dados via IA, que automatizava a obtenção de atributos psicológicos, sinônimos, habilidades correlatas e demais informações, reduzindo assim drasticamente o tempo de preenchimento manual.
+### Tenho conhecimento prático em Node.js, onde já desenvolvi rotinas de automação, leitura e processamento de arquivos, integrações entre sistemas e serviços assíncronos. Venho consolidando minha transição aprofundando estudos em Node.js, TypeScript e arquiteturas backend, além de boas práticas como camadas, DTOs, Repositories, testes unitários, Docker e microsserviços.
 
-  #### Recentemente, aprofundei meus estudos em CI/CD no GitLab, com foco em automação de pipelines e deploys contínuos. Atualmente, estou desenvolvendo um projeto moderno utilizando Laravel 12, Inertia.js e Vue.js, aplicando princípios de Clean Code, arquitetura modular, Service/Repository Pattern, DTOs e boas práticas de desenvolvimento escalável.
+### No meu último projeto profissional, modelei entidades complexas, estabeleci relacionamentos e garanti integridade da base de dados, além de desenvolver microserviços e pipelines inteligentes utilizando IA para enriquecimento automático de informações, reduzindo significativamente o trabalho manual.
+
+### Também evoluí meu domínio em CI/CD com GitLab, automação de pipelines e deploys contínuos. Recentemente, desenvolvi projetos utilizando Inertia.js, Vue.js, arquitetura limpa, padrões de projeto e organização modular.
+
+### Atualmente, busco oportunidades como Node.js Developer, aplicando minha base sólida em backend e minha experiência real com ecossistemas modernos JavaScript.
 
 
 ## Educação
