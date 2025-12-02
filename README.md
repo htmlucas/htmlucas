@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/lucas-martins-46043633a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  #### Sou desenvolvedor Full Stack com 3 anos de experiência em projetos web, atualmente focado em Node.js e desenvolvimento backend moderno. Atuei com PHP/Laravel ao longo da maior parte da minha trajetória, construindo APIs escaláveis, microsserviços, filas, jobs, modelagem de dados e integrações complexas — experiência que fortalece minha atuação atual no ecossistema JavaScript/TypeScript.
+  ### Sou desenvolvedor Full Stack com 3 anos de experiência em projetos web, atualmente focado em Node.js e desenvolvimento backend moderno. Atuei com PHP/Laravel ao longo da maior parte da minha trajetória, construindo APIs escaláveis, microsserviços, filas, jobs, modelagem de dados e integrações complexas — experiência que fortalece minha atuação atual no ecossistema JavaScript/TypeScript.
 
 ### Tenho conhecimento prático em Node.js, onde já desenvolvi rotinas de automação, leitura e processamento de arquivos, integrações entre sistemas e serviços assíncronos. Venho consolidando minha transição aprofundando estudos em Node.js, TypeScript e arquiteturas backend, além de boas práticas como camadas, DTOs, Repositories, testes unitários, Docker e microsserviços.
 
