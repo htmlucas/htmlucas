@@ -11,7 +11,6 @@
 ### Vivência prática com PHP/Laravel, modelagem de bancos de dados (MySQL e PostgreSQL), filas e jobs assíncronos, além de participação ativa na definição de padrões técnicos e arquitetura dos sistemas. 
 
 ### No frontend, desenvolvimento de interfaces que consomem as próprias APIs, garantindo integração consistente, 
-fluidez e previsibilidade entre as camadas da aplicação.
 
 ## Educação
 
