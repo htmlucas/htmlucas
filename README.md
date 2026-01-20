@@ -4,16 +4,14 @@
   <a href="https://www.linkedin.com/in/lucas-martins-46043633a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  ### Sou desenvolvedor Full Stack com 3 anos de experiência em projetos web, atualmente focado em Node.js e desenvolvimento backend moderno. Atuei com PHP/Laravel ao longo da maior parte da minha trajetória, construindo APIs escaláveis, microsserviços, filas, jobs, modelagem de dados e integrações complexas — experiência que fortalece minha atuação atual no ecossistema JavaScript/TypeScript.
+### Desenvolvedor Full Stack com mais de 3 anos de experiência na construção de aplicações web, com atuação predominante em backend. 
 
-### Tenho conhecimento prático em Node.js, onde já desenvolvi rotinas de automação, leitura e processamento de arquivos, integrações entre sistemas e serviços assíncronos. Venho consolidando minha transição aprofundando estudos em Node.js, TypeScript e arquiteturas backend, além de boas práticas como camadas, DTOs, Repositories, testes unitários, Docker e microsserviços.
+### Experiência principal com Laravel e Next.js/TypeScript, atuando no desenvolvimento de APIs REST, integrações externas e na estruturação da comunicação entre backend e frontend. 
 
-### No meu último projeto profissional, modelei entidades complexas, estabeleci relacionamentos e garanti integridade da base de dados, além de desenvolver microserviços e pipelines inteligentes utilizando IA para enriquecimento automático de informações, reduzindo significativamente o trabalho manual.
+### Vivência prática com PHP/Laravel, modelagem de bancos de dados (MySQL e PostgreSQL), filas e jobs assíncronos, além de participação ativa na definição de padrões técnicos e arquitetura dos sistemas. 
 
-### Também evoluí meu domínio em CI/CD com GitLab, automação de pipelines e deploys contínuos. Recentemente, desenvolvi projetos utilizando Inertia.js, Vue.js, arquitetura limpa, padrões de projeto e organização modular.
-
-### Atualmente, busco oportunidades como Node.js Developer, aplicando minha base sólida em backend e minha experiência real com ecossistemas modernos JavaScript.
-
+### No frontend, desenvolvimento de interfaces que consomem as próprias APIs, garantindo integração consistente, 
+fluidez e previsibilidade entre as camadas da aplicação.
 
 ## Educação
 
