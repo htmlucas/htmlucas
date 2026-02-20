@@ -4,13 +4,15 @@
   <a href="https://www.linkedin.com/in/lucas-martins-46043633a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Desenvolvedor Full Stack com mais de 3 anos de experiência na construção de aplicações web, com atuação predominante em backend. 
+### Sou Software Engineer com mais de 3 anos de experiência no desenvolvimento de aplicações web, com foco predominante em backend utilizando PHP e Laravel.
 
-### Experiência principal com Laravel e Next.js/TypeScript, atuando no desenvolvimento de APIs REST, integrações externas e na estruturação da comunicação entre backend e frontend. 
+### Atuo na construção e evolução de APIs REST escaláveis, integrações com serviços externos e modelagem de bancos de dados relacionais (PostgreSQL e MySQL), sempre com atenção a performance, organização de código e arquitetura em camadas (Controller, Service, Repository).
 
-### Vivência prática com PHP/Laravel, modelagem de bancos de dados (MySQL e PostgreSQL), filas e jobs assíncronos, além de participação ativa na definição de padrões técnicos e arquitetura dos sistemas. 
+### Tenho experiência prática com processamento assíncrono utilizando filas e jobs, versionamento com Git, containerização com Docker e participação ativa na definição de padrões técnicos e decisões arquiteturais.
 
-### No frontend, desenvolvimento de interfaces que consomem as próprias APIs, garantindo integração consistente, 
+### No frontend, desenvolvo interfaces com React/Next.js e TypeScript, estruturando componentes reutilizáveis e garantindo comunicação eficiente e segura com as APIs.
+
+### Atualmente também exploro aplicações de IA integrada a sistemas backend, incluindo automações e enriquecimento de dados.
 
 ## Educação
 
