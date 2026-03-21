@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/lucas-martins-46043633a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Sou Software Engineer com mais de 3 anos de experiência no desenvolvimento de aplicações web, com foco predominante em backend utilizando PHP e Laravel.
+### Sou Desenvolvedor Back-end com mais de 3 anos de experiência no desenvolvimento de aplicações web, com foco predominante em backend utilizando PHP e Laravel.
 
 ### Atuo na construção e evolução de APIs REST escaláveis, integrações com serviços externos e modelagem de bancos de dados relacionais (PostgreSQL e MySQL), sempre com atenção a performance, organização de código e arquitetura em camadas (Controller, Service, Repository).
 
